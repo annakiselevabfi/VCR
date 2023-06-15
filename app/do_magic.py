@@ -11,8 +11,8 @@ import pandas as pd
 
 app_path = "D:/project_VCR/yolo/app/"
 car_list_route = "database/car_list.xlsx"
-sam = "database/"
-raw_image = "1.bmp"
+sam = ""
+raw_image = "car_tst1.png"
 yolov8_result = "yolo_result.png"
 plate_image = "plate.png"
 eng_syms = 'ABEKMHOPCTYX'
